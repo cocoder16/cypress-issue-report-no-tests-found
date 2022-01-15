@@ -5,7 +5,7 @@
 1. Create any `*.tsx` or `*.ts` file in `src`
 2. Write any content in that new file and save it
 3. Rename that file to `*.spec.tsx` or `*.spec.ts`
-4. Write desire test code in that file like below and save it
+4. Write proper test code in that file like below and save it
 
 ```
 import { mount } from "@cypress/react";
